@@ -15,7 +15,7 @@ class Maruthi(Car):
 class Benz(Car):
     pass
 
-maruthi = Maruthi ("omni", "k310", "1992", "RED")
+maruthi = Maruthi ("omni", "k310", "1992", "blue")
 
 print(maruthi.color)
 
