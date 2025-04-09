@@ -15,8 +15,8 @@ class Maruthi(Car):
 class Benz(Car):
     pass
 
-maruthi = Maruthi ("omni", "k310", "1992", "Pink")
+maruthi = Maruthi ("omni", "k310", "1992", "RED")
 
-print(maruthi.name)
+print(maruthi.color)
 
 maruthi.service()
